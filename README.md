@@ -36,7 +36,7 @@ I built this app after a suggestion from @Desmond Alohan. It does what it's titl
 Install and activate.  Toggle hide/show the start button.
 
 ## Download
-https://github.com/papa-boynton/Hide-Settings-Menu/releases/latest
+[Droptop Four Community Apps](https://droptopfour.com/community-apps/)
 
 ## Credits
 Written by [TheyCallMePapa](https://github.com/papa-boynton)
